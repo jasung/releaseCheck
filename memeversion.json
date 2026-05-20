@@ -1,8 +1,8 @@
 {
-  "versionName": "0.45.0",
-  "versionCode": 73,
+  "versionName": "0.46.0",
+  "versionCode": 74,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-05-20T19:52:11+0900",
+  "publishedAt": "2026-05-20T19:58:48+0900",
   "required": false
 }
