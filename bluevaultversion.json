@@ -1,0 +1,12 @@
+{
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "apkFileName": "BlueVault-release-v0.1.0.apk",
+  "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/bluevault/BlueVault-release-v0.1.0.apk",
+  "releaseUrl": "https://github.com/jasung/releaseCheck/releases/tag/bluevault",
+  "message": "새 버전이 있습니다.",
+  "required": false,
+  "notes": [
+    "BlueVault Android 클로즈 베타 배포 버전입니다."
+  ]
+}
