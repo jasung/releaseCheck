@@ -1,0 +1,13 @@
+{
+  "versionName": "0.5.1",
+  "versionCode": 39,
+  "apkFileName": "chaenggyeoyak-latest.apk",
+  "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/chaenggyeoyak/chaenggyeoyak-latest.apk",
+  "releaseUrl": "https://github.com/jasung/releaseCheck/releases/tag/chaenggyeoyak",
+  "message": "새 버전이 있습니다.",
+  "required": false,
+  "notes": [
+    "백업과 복구 기능을 추가했습니다.",
+    "복구 후 복용 알림을 다시 예약하도록 개선했습니다."
+  ]
+}
