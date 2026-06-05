@@ -1,17 +1,14 @@
 {
-  "versionName": "0.54.0",
-  "versionCode": 83,
+  "versionName": "0.6.0",
+  "versionCode": 84,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-05-24T13:31:55+0900",
+  "publishedAt": "2026-06-05T10:28:04+0900",
   "required": false,
   "installedReleaseNotes": [
-    "영상 등록 시 자동 GIF 변환 제거, 원본 MP4 그대로 저장",
-    "복사/공유할 때만 GIF를 생성하도록 변경",
-    "GIF 캐시 기본값 500MB, 설정에서 최대 2GB까지 조정 가능",
-    "캐시 초과 시 오래된 GIF 캐시 자동 삭제",
-    "설정 화면에서 GIF 캐시 사용량 확인 및 직접 비우기 추가",
-    "미디어 미리보기 표시 및 자동재생 개선",
-    "미디어 원본 공유 시 GIF가 아닌 원본 MP4를 공유하도록 수정"
+    "검색 결과를 누르면 바로 복사되도록 변경",
+    "키보드 검색 버튼을 눌렀을 때만 검색 결과가 갱신되도록 개선",
+    "상세 화면에서 뒤로 돌아와도 보던 위치를 유지하도록 개선",
+    "핀치로 여러 이미지가 보이는 그리드에서는 미리보기 자동재생을 끄도록 변경"
   ]
 }
