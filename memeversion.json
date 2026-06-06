@@ -1,13 +1,13 @@
 {
-  "versionName": "0.7.0",
-  "versionCode": 85,
+  "versionName": "0.8.0",
+  "versionCode": 86,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-06-07T00:01:08+0900",
+  "publishedAt": "2026-06-07T00:15:10+0900",
   "required": false,
   "installedReleaseNotes": [
-    "미디어를 GIF로 변환해 복사할 때 실패 원인을 메시지로 표시",
-    "GIF 복사 클립보드 권한 부여를 보강",
-    "MIME이 비디오인 항목도 GIF 복사 성공 메시지가 나오도록 개선"
+    "짧고 안전한 미디어는 원본 해상도로 GIF 변환",
+    "긴 미디어 GIF 변환은 프레임과 크기를 제한해 복사 실패를 줄임",
+    "로컬 tmp 폴더를 Git 추적에서 제외"
   ]
 }
