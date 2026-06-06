@@ -1,14 +1,13 @@
 {
-  "versionName": "0.6.0",
-  "versionCode": 84,
+  "versionName": "0.7.0",
+  "versionCode": 85,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-06-05T10:28:04+0900",
+  "publishedAt": "2026-06-07T00:01:08+0900",
   "required": false,
   "installedReleaseNotes": [
-    "검색 결과를 누르면 바로 복사되도록 변경",
-    "키보드 검색 버튼을 눌렀을 때만 검색 결과가 갱신되도록 개선",
-    "상세 화면에서 뒤로 돌아와도 보던 위치를 유지하도록 개선",
-    "핀치로 여러 이미지가 보이는 그리드에서는 미리보기 자동재생을 끄도록 변경"
+    "미디어를 GIF로 변환해 복사할 때 실패 원인을 메시지로 표시",
+    "GIF 복사 클립보드 권한 부여를 보강",
+    "MIME이 비디오인 항목도 GIF 복사 성공 메시지가 나오도록 개선"
   ]
 }
