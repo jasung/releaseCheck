@@ -1,13 +1,13 @@
 {
-  "versionName": "0.8.0",
-  "versionCode": 86,
+  "versionName": "0.9.0",
+  "versionCode": 87,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-06-07T00:15:10+0900",
+  "publishedAt": "2026-06-07T00:43:39+0900",
   "required": false,
   "installedReleaseNotes": [
-    "짧고 안전한 미디어는 원본 해상도로 GIF 변환",
-    "긴 미디어 GIF 변환은 프레임과 크기를 제한해 복사 실패를 줄임",
-    "로컬 tmp 폴더를 Git 추적에서 제외"
+    "GIF 변환 LZW 압축을 개선해 파일 크기를 줄임",
+    "태블릿에서는 미디어 자동재생을 최대 4열까지 허용",
+    "폰에서는 작은 타일 4열 자동재생을 방지"
   ]
 }
