@@ -1,12 +1,13 @@
 {
-  "versionName": "0.9.0",
-  "versionCode": 87,
+  "versionName": "0.10.0",
+  "versionCode": 88,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-06-07T00:43:39+0900",
+  "publishedAt": "2026-06-07T00:55:51+0900",
   "required": false,
   "installedReleaseNotes": [
-    "GIF 변환 LZW 압축을 개선해 파일 크기를 줄임",
+    "iPlay50 mini Pro 해상도에서 4열 미디어 미리보기 자동재생 허용",
+    "GIF 변환 LZW 압축이 깨지던 파일 크기를 줄임",
     "태블릿에서는 미디어 자동재생을 최대 4열까지 허용",
     "폰에서는 작은 타일 4열 자동재생을 방지"
   ]
