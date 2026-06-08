@@ -1,12 +1,12 @@
 {
   "versionName": "0.11.0",
-  "versionCode": 89,
+  "versionCode": 90,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-06-07T01:03:03+0900",
+  "publishedAt": "2026-06-08T19:49:07+0900",
   "required": false,
   "installedReleaseNotes": [
-    "iPlay50 mini Pro에서 4열 미디어 미리보기 자동재생 폭 기준 보정",
-    "iPlay50 mini Pro 해상도에서 4열 미디어 미리보기 자동재생 허용"
+    "동영상을 GIF로 복사할 때 더 부드럽게 변환",
+    "GIF 변환 용량이 과도하게 커지지 않도록 출력 크기 조정"
   ]
 }
