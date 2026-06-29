@@ -1,11 +1,11 @@
 {
-  "versionName": "1.1.25",
-  "versionCode": 80,
+  "versionName": "1.1.26",
+  "versionCode": 81,
   "apkFileName": "reading-journal-final.apk",
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/reading-journal/reading-journal-final.apk",
   "releaseUrl": "https://github.com/jasung/releaseCheck/releases/tag/reading-journal",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-06-29T15:12:48+0900",
+  "publishedAt": "2026-06-29T15:25:41+0900",
   "required": false,
   "notes": []
 }
