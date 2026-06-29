@@ -1,11 +1,11 @@
 {
-  "versionName": "1.1.23",
-  "versionCode": 78,
+  "versionName": "1.1.24",
+  "versionCode": 79,
   "apkFileName": "reading-journal-final.apk",
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/reading-journal/reading-journal-final.apk",
   "releaseUrl": "https://github.com/jasung/releaseCheck/releases/tag/reading-journal",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-05-31T20:35:35+0900",
+  "publishedAt": "2026-06-29T15:03:44+0900",
   "required": false,
-  "notes": ["개발자 응원하기 기능을 추가했습니다."]
+  "notes": []
 }
