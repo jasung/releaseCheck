@@ -1,13 +1,13 @@
 {
-  "versionName": "0.1.9",
-  "versionCode": 10,
+  "versionName": "0.1.10",
+  "versionCode": 11,
   "apkFileName": "BlueVault-release-v0.1.0.apk",
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/bluevault/BlueVault-release-v0.1.0.apk",
   "releaseUrl": "https://github.com/jasung/releaseCheck/releases/tag/bluevault",
   "message": "새 버전이 있습니다.",
   "required": false,
   "notes": [
-    "일부 앱과 웹 로그인 화면에서 BlueVault 자동입력 후보가 표시되지 않던 문제를 개선했습니다.",
-    "입력창 주변의 로그인 문맥까지 함께 확인해 일반 입력창은 숨기고 로그인창은 더 안정적으로 감지하도록 수정했습니다."
+    "Chrome과 Samsung Internet의 일부 로그인 화면에서 BlueVault 자동입력 후보가 표시되지 않던 문제를 개선했습니다.",
+    "앱 상단 BlueVault 이름 옆에 현재 버전 정보를 작게 표시하도록 추가했습니다."
   ]
 }
