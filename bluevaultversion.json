@@ -1,13 +1,13 @@
 {
-  "versionName": "0.1.8",
-  "versionCode": 9,
+  "versionName": "0.1.9",
+  "versionCode": 10,
   "apkFileName": "BlueVault-release-v0.1.0.apk",
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/bluevault/BlueVault-release-v0.1.0.apk",
   "releaseUrl": "https://github.com/jasung/releaseCheck/releases/tag/bluevault",
   "message": "새 버전이 있습니다.",
   "required": false,
   "notes": [
-    "앱을 백그라운드로 내렸다가 돌아와도 자동잠금 시간 안에서는 열린 보관함 세션을 유지하도록 개선했습니다.",
-    "자동잠금 시간이 지난 경우에만 열린 보관함 세션을 정리하도록 수정했습니다."
+    "일부 앱과 웹 로그인 화면에서 BlueVault 자동입력 후보가 표시되지 않던 문제를 개선했습니다.",
+    "입력창 주변의 로그인 문맥까지 함께 확인해 일반 입력창은 숨기고 로그인창은 더 안정적으로 감지하도록 수정했습니다."
   ]
 }
