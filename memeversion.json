@@ -1,11 +1,11 @@
 {
-  "versionName": "0.12.0",
-  "versionCode": 91,
+  "versionName": "0.13.0",
+  "versionCode": 92,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-07-28T10:15:48+0900",
+  "publishedAt": "2026-07-30T08:24:46+0900",
   "required": false,
   "installedReleaseNotes": [
-    "앱 실행 시 다른 멀티미디어 앱 재생이 중단되지 않도록 수정"
+    "보관함 목록에서 파일 종류 표시가 이미지를 가리지 않도록 개선"
   ]
 }
