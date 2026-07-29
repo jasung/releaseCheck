@@ -1,11 +1,11 @@
 {
-  "versionName": "0.13.0",
-  "versionCode": 92,
+  "versionName": "0.14.0",
+  "versionCode": 93,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-07-30T08:24:46+0900",
+  "publishedAt": "2026-07-30T08:37:58+0900",
   "required": false,
   "installedReleaseNotes": [
-    "보관함 목록에서 파일 종류 표시가 이미지를 가리지 않도록 개선"
+    "보관함에서 여러 칸으로 볼 때 미디어 썸네일이 표시되도록 개선"
   ]
 }
