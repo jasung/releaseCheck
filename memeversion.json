@@ -1,11 +1,13 @@
 {
-  "versionName": "0.14.0",
-  "versionCode": 93,
+  "versionName": "0.15.1",
+  "versionCode": 95,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
   "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-07-30T08:37:58+0900",
+  "publishedAt": "2026-08-31T16:34:10+0900",
   "required": false,
   "installedReleaseNotes": [
-    "보관함에서 여러 칸으로 볼 때 미디어 썸네일이 표시되도록 개선"
+    "GIF 캐시가 있으면 준비 문구 없이 바로 복사하도록 수정",
+    "Android 13 이상에서 복사 안내가 중복되지 않도록 수정",
+    "기존 설치본에서 GitHub 업데이트가 가능하도록 호환성 복원"
   ]
 }
