@@ -1,13 +1,13 @@
 {
-  "versionName": "0.15.1",
-  "versionCode": 95,
+  "versionName": "0.16.0",
+  "versionCode": 96,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
-  "message": "새 버전이 있습니다.",
-  "publishedAt": "2026-08-31T16:34:10+0900",
+  "message": "태그 입력 개선 및 텍스트 직접 편집·보존 기능을 추가했습니다.",
+  "publishedAt": "2026-10-23T09:34:47+09:00",
   "required": false,
   "installedReleaseNotes": [
-    "GIF 캐시가 있으면 준비 문구 없이 바로 복사하도록 수정",
-    "Android 13 이상에서 복사 안내가 중복되지 않도록 수정",
-    "기존 설치본에서 GitHub 업데이트가 가능하도록 호환성 복원"
+    "태그 입력창을 등록 가능한 태그 목록 위로 이동",
+    "인식된 텍스트 직접 작성·수정 및 저장·취소 기능 추가",
+    "OCR 재인식 후에도 직접 저장한 텍스트 유지"
   ]
 }
