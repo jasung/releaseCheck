@@ -1,11 +1,12 @@
 {
-  "versionName": "0.17.0",
-  "versionCode": 97,
+  "versionName": "0.18.0",
+  "versionCode": 98,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/meme-saver/meme-saver-latest.apk",
-  "message": "검색어를 입력하는 즉시 검색 결과를 표시합니다.",
-  "publishedAt": "2026-10-23T09:55:37+09:00",
+  "message": "검색 중에도 입력 포커스와 키보드가 유지됩니다.",
+  "publishedAt": "2026-10-23T16:44:23+09:00",
   "required": false,
   "installedReleaseNotes": [
-    "검색어 입력·수정 즉시 OCR 텍스트와 태그 검색 결과 표시"
+    "검색 결과가 바뀌어도 입력 포커스와 키보드 유지",
+    "영상 미리보기의 포커스 이동 방지 및 검색 키 입력 후 연속 입력 지원"
   ]
 }
