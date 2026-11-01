@@ -1,13 +1,14 @@
 {
-  "versionName": "0.1.11",
-  "versionCode": 12,
-  "apkFileName": "BlueVault-release-v0.1.0.apk",
-  "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/bluevault/BlueVault-release-v0.1.0.apk",
+  "versionName": "0.1.12",
+  "versionCode": 13,
+  "apkFileName": "BlueVault-release-v0.1.12.apk",
+  "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/bluevault/BlueVault-release-v0.1.12.apk",
   "releaseUrl": "https://github.com/jasung/releaseCheck/releases/tag/bluevault",
   "message": "새 버전이 있습니다.",
   "required": false,
   "notes": [
-    "Chrome과 Samsung Internet에서 로그인 사이트의 하위 도메인이 달라도 저장된 사이트와 매칭되도록 개선했습니다.",
-    "브라우저 로그인 화면에서 매칭 항목이 없어도 BlueVault 검색 후보가 표시되도록 개선했습니다."
+    "화면을 끄거나 앱을 벗어난 시점부터 자동잠금 유지 시간을 계산하도록 수정했습니다.",
+    "앱 복귀와 자동입력 요청 시 보관함의 만료 여부를 확인하도록 개선했습니다.",
+    "기기 시각이 바뀌어도 자동잠금 시간 계산에 영향을 주지 않도록 수정했습니다."
   ]
 }
