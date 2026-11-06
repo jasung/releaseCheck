@@ -1,0 +1,16 @@
+{
+  "applicationId": "com.quietnight.app",
+  "versionCode": 5,
+  "versionName": "0.1.4",
+  "minSdk": 29,
+  "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/goyo/goyo-latest.apk",
+  "sha256": "9c921f1723f33879cede356dd35a01f0db58ffddd3d5ce5ba5a2b6b4e09e475b",
+  "sizeBytes": 49625995,
+  "message": "앱에서 새 버전을 확인하고 업데이트할 수 있어요.",
+  "installedReleaseNotes": [
+    "앱을 열면 새 버전을 확인하고, 업데이트를 누르면 APK 다운로드 후 설치 화면을 열어요.",
+    "설정에서 현재 버전과 업데이트 상태를 확인할 수 있어요.",
+    "코골이 추정시간·횟수, 취침 전 조치 비교와 간결해진 메인 화면을 포함해요."
+  ],
+  "required": false
+}
