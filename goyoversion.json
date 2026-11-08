@@ -1,16 +1,16 @@
 {
   "applicationId": "com.quietnight.app",
-  "versionCode": 6,
-  "versionName": "0.1.5",
+  "versionCode": 7,
+  "versionName": "0.1.6",
   "minSdk": 29,
   "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/goyo/goyo-latest.apk",
-  "sha256": "7114d02e6627c9e4c78f6438dbed6e78155c9e8b81f996a66b6aa9948f48a7c5",
-  "sizeBytes": 49783228,
-  "message": "녹음 마이크 선택 설정을 추가했어요. 휴대폰 마이크를 고정하거나 연결된 외부 입력을 우선해서 사용할 수 있어요.",
+  "sha256": "ca34d5493b50f23d189c661ee00f3a2d4393dc975c8d28faa926a031ff589d64",
+  "sizeBytes": 49707573,
+  "message": "조치 목록에 샘플 항목 전체와 직접 등록을 추가했어요. 기본 조치 없음, 직전 조치 불러오기와 전체 미선택을 사용할 수 있어요.",
   "installedReleaseNotes": [
-    "설정에서 항상 휴대폰 마이크 또는 연결된 외부 입력 우선을 선택할 수 있어요.",
-    "외부 마이크가 없으면 휴대폰 마이크를 사용해요.",
-    "10초 마이크 확인에도 선택한 마이크 설정을 적용해요."
+    "조치 21개를 원형 아이콘 목록에서 고르고, 새로 만든 항목을 다음 밤에도 선택할 수 있어요.",
+    "기본 선택은 조치 없음이에요. 직전 조치를 불러오거나 전체 미선택으로 지울 수 있어요.",
+    "코골이 횟수는 연속 검출을 1회로 세고 끊긴 뒤 재검출되면 1회 늘려요. 시간은 계속 누적해요."
   ],
   "required": false
 }
