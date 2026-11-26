@@ -1,6 +1,6 @@
 {
-  "versionName": "0.20.2",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/hanen-android/HanEn-Android-0.20.2-debug.apk",
-  "message": "기호 화면을 18개 분류 탭으로 확장했습니다. 꺾쇠 < >를 포함한 기호·특수문자 475개를 입력할 수 있으며, 탭 목록을 가로로 넘기거나 번호 키를 눌러 분류를 바꿀 수 있습니다."
+  "versionName": "0.20.3",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/jasung/releaseCheck/releases/download/hanen-android/HanEn-Android-0.20.3-debug.apk",
+  "message": "기본 키보드에서 스페이스바 오른쪽의 물결표(~)를 한 번 눌러 입력할 수 있습니다. 숫자·PIN·전화번호 입력란을 누르면 숫자 키패드가 열립니다."
 }
